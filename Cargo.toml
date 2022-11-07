@@ -1,0 +1,20 @@
+[package]
+name = "ebook-creator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sandeep Choudhary <sc.oss.india@gmail.com>"]
+description = "TBD"
+repository = "https://github.com/schoudhary108/ebook-creato"
+homepage = "https://github.com/schoudhary108/ebook-creato"
+documentation = "https://docs.rs/ebook-creato"
+keywords = ["ebook", "creator"]
+license = "MIT"
+readme = "README.md"
+
+[badges]
+coveralls = { repository = "ebook-creato" }
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
